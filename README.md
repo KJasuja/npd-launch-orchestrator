@@ -1,4 +1,4 @@
-# 🚀 NPD Launch Orchestrator
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ab183d51-1fed-43c2-a066-412ef7a47e4b" /># 🚀 NPD Launch Orchestrator
 ### Product Launch Automation System | Airtable · Make · Slack
 
 > An end-to-end GTM operations system that automates task tracking, escalation alerts, and weekly reporting across new product launches — replacing manual follow-ups with intelligent, real-time workflows.
@@ -55,7 +55,7 @@ Managing multiple simultaneous product launches is chaotic — missed deadlines,
                                               └───────────────┘
 ```
 
----
+
 
 ## ⚙️ Automation Scenarios (Make)
 
@@ -116,7 +116,6 @@ A built-in Airtable Interface provides real-time visibility across all launches:
 - **Escalation Log** — live feed of all escalated tasks
 - **KPI Summary** — aggregate metrics across the entire launch portfolio
 
-> 🔗 *[Add your Airtable Interface public link here]*
 
 ---
 
@@ -197,7 +196,7 @@ npd-launch-orchestrator/
 
 **Kriti Jasuja**  
 IIT Madras  
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+[LinkedIn](www.linkedin.com/in/kriti-jasuja-83777033b) · [GitHub](https://github.com/KJasuja)
 
 ---
 
