@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ab183d51-1fed-43c2-a066-412ef7a47e4b" /># 🚀 NPD Launch Orchestrator
+# 🚀 NPD Launch Orchestrator
 ### Product Launch Automation System | Airtable · Make · Slack
 
 > An end-to-end GTM operations system that automates task tracking, escalation alerts, and weekly reporting across new product launches — replacing manual follow-ups with intelligent, real-time workflows.
